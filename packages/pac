@@ -33,3 +33,7 @@ alsa-utils
 pavucontrol
 nvidia
 nvidia-settings
+wget
+unrar
+qbittorrent
+nfs-utils
