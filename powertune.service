@@ -1,0 +1,10 @@
+[Unit]
+Description=Power tuning
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/powertune.sh
+
+[Install]
+WantedBy=multi-user.target
+
